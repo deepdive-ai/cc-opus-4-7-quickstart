@@ -24,7 +24,7 @@ Drop the `cc-opus-4-7-quickstart/` folder into one of:
 
 Or give your agent this prompt:
 
-> Install the cc-opus-4-7-quickstart skill from https://github.com/deepdive-ai/cc-opus-4-7-quickstart into my `~/.claude/skills/` folder.
+> Install the cc-opus-4-7-quickstart skill from https://github.com/deepdive-ai/cc-opus-4-7-quickstart into my `~/.claude/skills/` folder. Clone the SKILL.md into a new `cc-opus-4-7-quickstart/` subfolder so Claude Code picks it up.
 
 ## Triggering
 
@@ -42,7 +42,7 @@ Delete the `cc-opus-4-7-quickstart/` folder from your skills directory. The setu
 
 ## Related
 
-- [claude-go-skill](https://github.com/deepdive-ai/-go) — the `/go` ship-it skill built during setup
+- [claude-go-skill](https://github.com/deepdive-ai/claude-go-skill) — the `/go` ship-it skill built during setup
 
 ## License
 
